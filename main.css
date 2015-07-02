@@ -282,8 +282,8 @@ em{
 }
 
 #section5 li.plus{
-  background:url('images/plus.png') no-repeat scroll left center / 20px;;
-  height:50%;
+  background: url("images/plus.png") no-repeat left top 16px/20px;
+  padding-left: 35px;
 }
 
 #treehouse {
